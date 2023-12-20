@@ -8,7 +8,7 @@
 .container{
 	width: 100%;
 	height: 100vh;
-	background-image: url(gen.png);
+	background-image: url(images/gen.png);
 	background-position: center;
 	background-size: cover;
 	padding: 0 7%;
